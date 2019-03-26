@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="BowlingTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-03-26T04:09:18" hostname="MacBook-Pro-7.local" time="0.013">
-  <properties/>
-  <testcase name="given a game with 20 rolls scoring one should return twenty()" classname="BowlingTests" time="0.007"/>
-  <testcase name="given empty game should return zero()" classname="BowlingTests" time="0.005"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
