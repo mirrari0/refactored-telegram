@@ -1,0 +1,1 @@
+data class Ball(val roll: String)
